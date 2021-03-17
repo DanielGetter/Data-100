@@ -1,1 +1,5 @@
 # Data-100
+
+This is an intermediate Data Science course offered by UC Berkeley that offers and in-depth overview of the Data Science lifecycle. Homeworks and labs are dedicated to getting hands on experience with cleaning and processing data, implementing regression models, etc., which are synthesized into longer form projects throughout the semester. 
+
+From the course website: "In this class, we explore key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making. Through a strong emphasizes (sic) on data centric computing, quantitative critical thinking, and exploratory data analysis this class covers key principles and techniques of data science. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing." (https://ds100.org/)
